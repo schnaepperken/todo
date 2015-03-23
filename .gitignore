@@ -2,4 +2,5 @@
 .idea
 todo.xpi
 Thumbs.db
-data/sch
+node_modules
+data/schnaps
