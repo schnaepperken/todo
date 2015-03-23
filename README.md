@@ -11,10 +11,9 @@ basierend auf dem Abschnitt "[Developing without cfx run](https://developer.mozi
 npm install
 ```
 
-Bower-Abhängigkeiten auflösen
+Abhängigkeiten via Bower auflösen
 ```sh
-npm install bower
-bower init
+bower install
 ```
 
 
