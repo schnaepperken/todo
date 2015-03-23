@@ -13,6 +13,7 @@ npm install
 
 Bower-Abhängigkeiten auflösen
 ```sh
+npm install bower
 bower init
 ```
 
@@ -36,3 +37,4 @@ Jede Änderung im`lib`-Verzeichnis führt nun dazu, dass das XPI neu gebaut und 
 ### Credits
 
 * [the wonderful Metro UI CSS](http://metroui.org.ua/)
+* [bower](http://bower.io/)
