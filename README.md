@@ -22,6 +22,11 @@ benötigt.
 
 Jede Änderung im`lib`-Verzeichnis führt nun dazu, dass das XPI neu gebaut und im FF aktualisiert wird.
 
+## Grunt-Tasks
+
+* Default-Task: Erstellt `todo.xpi` und lädt diese nach `http://localhost:8888/`
+* `build`: Erstellt `todo.xpi`
+
 ### Credits
 
 * [the wonderful Metro UI CSS](http://metroui.org.ua/)
