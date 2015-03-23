@@ -21,3 +21,7 @@ benötigt.
 ```
 
 Jede Änderung im`lib`-Verzeichnis führt nun dazu, dass das XPI neu gebaut und im FF aktualisiert wird.
+
+### Credits
+
+* [the wonderful Metro UI CSS](http://metroui.org.ua/)
