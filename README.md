@@ -11,6 +11,12 @@ basierend auf dem Abschnitt "[Developing without cfx run](https://developer.mozi
 npm install
 ```
 
+Bower-Abhängigkeiten auflösen
+```sh
+bower init
+```
+
+
 Außerdem wird die FF-Extension [Extension Auto-Installer](https://addons.mozilla.org/en-US/firefox/addon/autoinstaller/)
 benötigt.
 
