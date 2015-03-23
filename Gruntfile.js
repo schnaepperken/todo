@@ -11,7 +11,7 @@ module.exports = function(grunt) {
         },
         watch: {
             xpi: {
-                files: ['./lib/**'],
+                files: 'lib/**',
                 tasks: ['shell:xpi']
             }
         }
