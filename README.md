@@ -13,7 +13,7 @@ npm install
 
 Abhängigkeiten via Bower auflösen
 ```sh
-bower install
+nodes_modules/.bin/bower install
 ```
 
 
