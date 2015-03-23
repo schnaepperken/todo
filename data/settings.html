@@ -1,19 +1,32 @@
+<!DOCTYPE html>
 <html>
-  <head>
-  </head>
-<body>
+    <head>
+        <link rel="stylesheet" href="framework/Metro-UI-CSS-master/css/metro-bootstrap.css">
+        <script src="framework/Metro-UI-CSS-master/js/jquery/jquery.min.js"></script>
+        <script src="framework/Metro-UI-CSS-master/js/jquery/jquery.widget.min.js"></script>
+        <script src="framework/Metro-UI-CSS-master/js/metro/metro.min.js"></script>
+    </head>
+    <body class="metro">
+
   <h1>todo.settings</h1>
 
-    <p>
-      Pfad zur done.txt: <input type="file" id="settings-file-done" >
-    <p>
-    <p>
-      Pfad zur todo.txt: <input type="file" id="settings-file-todo" >
-    <p>
-      <p>
-      Automatisch archivieren <input type="checkbox" id="setting-auto-archive">
-      <p>
+<form>
+    <div class="input-control file size3">
+      <input type="file" />
+      <button class="btn-file"></button>
+    </div>
 
+
+      <p>
+      Automatisch archivieren
+      <div class="input-control switch">
+          <label>
+              <input type="checkbox" id="setting-auto-archive"/>
+              <span class="check"></span>
+          </label>
+      </div>
+      <p>
+</form>
 
   </body>
 </html>
