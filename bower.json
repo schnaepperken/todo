@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "homepage": "https://github.com/schnaepperken/todo",
+  "authors": [
+    "github.com/schnaepperken"
+  ],
+  "description": "todo-app",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
